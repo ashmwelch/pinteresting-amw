@@ -1,6 +1,6 @@
 # One Month Rails 
 
-This is the pinteresting amw sample application for 
-[*One Month Rails*][http://onemonthrails.com]
+This is the Pinteresting sample application for 
+*One Month Rails* (http://onemonthrails.com)
 
-by [Ashley Welch][http://ashleywelch.com]
+by Ashley Welch
