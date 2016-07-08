@@ -10,7 +10,7 @@ gem 'jquery-rails'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass'
-gem 'devise', '~> 3.1.0.rc2'
+gem 'devise', '~> 4.0.0'
 
 group :development, :test do 
 	gem 'sqlite3'
