@@ -22,7 +22,7 @@ class PinsController < ApplicationController
     if @pin.save
       redirect_to @pin, notice: 'Pin was successfully created.'
     else
-      render :new
+      render action: 'new'
     end
   end
 
@@ -30,7 +30,7 @@ class PinsController < ApplicationController
     if @pin.update(pin_params)
       redirect_to @pin, notice: 'Pin was successfully updated.'
     else
-      render :edit
+      render action: 'edit'
     end
   end
 
